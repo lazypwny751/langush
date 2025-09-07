@@ -1,5 +1,6 @@
 PREFIX := /usr
 BINDIR := $(PREFIX)/bin
+LIBDIR := $(PREFIX) # bunu library'ye linkle
 
 SDB := tools/sdb
 
