@@ -13,7 +13,7 @@ make all
 langush: langush is a localization tool using sdb,
 usage: langush --build en.sh tr.sh
 
-For more information please look up the example directory.
+For more information please look up the [example](./example) directory.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
